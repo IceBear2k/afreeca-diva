@@ -4,6 +4,10 @@ A simple Python script compiling a list of mp4 files for direct downloading of a
 
 If you don't know what this is about: http://edition.cnn.com/2014/01/29/world/asia/korea-eating-room/
 
+![ScreenShot](http://stuff.iceblock.org/diva.jpg)
+
+∩( ・ω・)∩ OMNOMNOM~
+
 In theory this works with any channel on afreeca TV, it simply needs changing of the URLs in the script.
 
 ## Usage:
